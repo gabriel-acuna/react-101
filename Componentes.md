@@ -19,5 +19,3 @@ Los componentes más complejos como un calendario, un slider, un formulario, etc
 En React, un componente se puede definir con una función, a éstos los llamamos componentes funcionales, y con una clase, a éstos los llamamos componentes de clase. Sin importar qué tipo de componente escribas, éstos reciben información del exterior y retornan un grupo de elementos de React que después se verán en la pantalla.
 
 A lo largo de este tema continuaremos analizando las principales características de un componente, cómo reciben información, cómo hacer componentes dinámicos, cómo afectan la interfaz, etc.
-
-Continuemos.

@@ -33,4 +33,3 @@ class Btn extends React.Component{
   render(){ console.log(this.props); return null; }
 }
 ```
-Continuemos aprendiendo sobre props en el siguiente tema, donde veremos valores por defecto.

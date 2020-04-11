@@ -28,5 +28,3 @@ Si deseas trabajar en un entorno en la nube que te permita acceder a tu proyecto
 Alternativamente, si estás usando un framework MVC como Rails, Django, Laravel o similares, asegúrate de buscar los plugins correspondientes para cada framework, que te permitan integrar React.
 
 Por último, puedes usar React a través de un framework basado en la librería, algunas opciones son Gatsby y Nextjs. Estos frameworks de React incluyen sus propias herramientas para la creación de nuevos proyectos.
-
-Continuemos
