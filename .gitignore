@@ -40,6 +40,7 @@ build/Release
 # Dependency directories
 code-splitting/node_modules/
 context/node_modules/
+componentes_clase/node_modules/
 jspm_packages/
 
 # TypeScript v1 declaration files
